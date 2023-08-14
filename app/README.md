@@ -1,3 +1,6 @@
+Criei o projeto com React utilizando Vite e yarn.
+Validação feita no componente Card, função handleAddItems().
+
 # CAIXA DA LANCHONETE
 
 ## COMO BAIXAR O CÓDIGO E SUBMETER MINHA SOLUÇÃO?
