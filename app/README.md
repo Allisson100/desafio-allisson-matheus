@@ -1,5 +1,6 @@
-Criei o projeto com React utilizando Vite e yarn.
-Validação feita no componente Card, função handleAddItems().
+- Criei o projeto com React utilizando Vite e yarn.
+- Validação feita no componente Card, função handleAddItems().
+- Testes estão em um assunto que ainda irei estudar por isso preferi em não utlizar testes nesse projeto, apenas mantive o arquivo de teste que veio com o projeto (caixa-da-lanchonete.test.js).
 
 # CAIXA DA LANCHONETE
 
